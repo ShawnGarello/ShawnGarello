@@ -38,9 +38,6 @@
 </div>
 
 ---
-
-## 🐍 contribution snake
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/shawngarello/shawngarello/output/github-contribution-grid-snake-dark.svg" />
 </p>
