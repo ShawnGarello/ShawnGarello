@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Shawn Garello👋
+# Hi, I'm Shawn Garello 👋
 
 ### CS @ UCI  
 ### building full-stack & AI-powered projects
@@ -19,25 +19,36 @@
 
 ---
 
-## 💻 tech stack
+# 💻 tech stack
+
+## languages
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,ts,html,css,cpp,react,nextjs,tailwind,supabase,postgres,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,js,ts,html,css,cpp" />
+</p>
+
+## frameworks & libraries
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" />
+</p>
+
+## backend & database
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=supabase,postgres" />
+</p>
+
+## tools & workflow
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
 ---
 
-## 📊 github stats
+## 📚 currently learning
 
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=shawngarello&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shawngarello&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
 <p align="center">
-  <img src="https://raw.githubusercontent.com/shawngarello/shawngarello/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://skillicons.dev/icons?i=nextjs,ts,supabase,postgres" />
 </p>
