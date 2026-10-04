@@ -14,7 +14,6 @@
 ## 🧠 currently
 
 - building an AI-powered STEM exam prep platform
-- learning Next.js, TypeScript, Supabase, and PostgreSQL
 - practicing LeetCode & data structures/algorithms
 
 ---
